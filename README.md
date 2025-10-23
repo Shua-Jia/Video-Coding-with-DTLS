@@ -18,7 +18,7 @@ Details:
 ### Inference
 After the training you can run the following command for evaluation. 
 python eval.py
-and we also offer a demo, you can download the demo from
+and we also offer a demo, you can download the demo from https://github.com/jiashaohua1993/Video-Coding/blob/main/videoSRC22_1920x1080_24.mp4
 
 follow is our experiment results.
 
