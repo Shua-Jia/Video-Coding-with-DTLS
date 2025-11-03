@@ -8,7 +8,8 @@ You can download training data vimeo 90k from http://toflow.csail.mit.edu/
 We use UVG, MCL-JCV, and HEVC Classes B, C, D, and E as our test data.
 
 ### Training 
-Train the model by following the command lines below python train.py
+Train the model by following the command lines below 
+'python train.py'
 
 Details: 
 --data_path: [should be filled in the directory to the training dataset] 
