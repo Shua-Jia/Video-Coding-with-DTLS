@@ -1,4 +1,4 @@
-# Video-Coding (for demo: see below)
+# Video-Coding (For Demo: see below)
 This is the program page of "A New Hybrid Approach Combining Traditional Method and Deep Learning for Domain Transfer in Video Compression"
 
 ## System requirments
