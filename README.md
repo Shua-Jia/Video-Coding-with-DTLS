@@ -1,6 +1,6 @@
 # Video-Coding (For Demo: see below)
 This is the program page of "A New Hybrid Approach Combining Traditional Method and Deep Learning for Domain Transfer in Video Compression"  
-we offer a demo, the size of H264 is 9M, the size of our method is 2.8M, you can download the demo from https://github.com/Shua-Jia/Video-Coding-with-DTLS/tree/main/Demo
+we offer a demo, the size of H264 is 9.7M, the size of our method is 2M, you can download the demo from https://github.com/Shua-Jia/Video-Coding-with-DTLS/tree/main/Demo
 ## System requirments
 
 ### Dataset
